@@ -1,0 +1,6 @@
+D:\White__Lilith\Reasons of suicide\Практика3\WindowsFormsApp1\Flist\bin\Debug\Flist.dll
+D:\White__Lilith\Reasons of suicide\Практика3\WindowsFormsApp1\Flist\bin\Debug\Flist.pdb
+D:\White__Lilith\Reasons of suicide\Практика3\WindowsFormsApp1\Flist\obj\Debug\Flist.dll
+D:\White__Lilith\Reasons of suicide\Практика3\WindowsFormsApp1\Flist\obj\Debug\Flist.pdb
+D:\White__Lilith\Reasons of suicide\Практика3\WindowsFormsApp1\Flist\obj\Debug\Flist.csprojAssemblyReference.cache
+D:\White__Lilith\Reasons of suicide\Практика3\WindowsFormsApp1\Flist\obj\Debug\Flist.csproj.CoreCompileInputs.cache
